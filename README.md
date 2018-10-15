@@ -1,6 +1,6 @@
 <h1>Privacy Policy </h1>
 
-Thank you for downloading Apple iPhone World.It is the policy of Apple iPhone World to respect your privacy, 
+Thank you for downloading Tutorials For iPhone.It is the policy of Tutorials For iPhone to respect your privacy, 
 and the privacy of all users of our applications. 
 This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting 
 your privacy, and the steps we take to ensure it.
@@ -9,12 +9,12 @@ your privacy, and the steps we take to ensure it.
 
 <b>No Collection of Personal Information</b>
 
-Apple iPhone World does not gather any of your personal information 
+Tutorials For iPhone does not gather any of your personal information 
 while you are using the Application.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded Apple iPhone World,the Application uses Google, a third party vendor, to serve advertisements 
+You have downloaded Tutorials For iPhone,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
